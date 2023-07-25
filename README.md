@@ -1,2 +1,2 @@
-# V_Digit_Detector
-my first experience in object detection (Detection CV ML)
+# Kozireva Elizaveta
+Hello! I'm Elizaveta Kozireva and it's my repository with some of the codes i made during study. 
